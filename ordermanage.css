@@ -1,0 +1,31 @@
+table{
+    margin-top: 10px;
+}
+
+tr, thead{
+    margin: 10px;
+    border: 1px solid black;
+    height: 80px;
+}
+
+td,th{
+    width: 200px;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+}
+
+.but1{
+    margin: 10px;
+}
+
+.statusbtn{
+    width: 100px;
+    height: 30px;
+    border: none;
+}
+
+.statusrow, .statusclass{
+    border: none;
+    height: 40px;
+}

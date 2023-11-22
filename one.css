@@ -1,0 +1,58 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.navbar{
+    padding: 0px 30px;
+    height: 90px;
+    font-weight: bold;
+}
+
+.navlogo{
+    height: 60px;
+}
+
+.nav-item{
+    margin: 12px;
+    font-size: 16px;
+    transition: transform 1s;
+}
+
+.nav-item:hover{
+    transform: scale(1.2);
+}
+
+.navlink{
+    color: #4BB1DF;
+    text-decoration: none;
+}
+
+.navlink:hover{
+    color: white;
+}
+
+
+
+button{
+    margin: 5px;
+}
+
+.carousel-item{
+    height: 660px;
+}
+
+.carhead{
+    font-weight: 400;
+}
+
+@media screen and (max-width: 800px) {
+    .navbar{
+        height: auto;
+    }
+
+    .carousel-item{
+        width: 100%;
+        height: auto;
+    }
+}

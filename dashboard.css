@@ -1,0 +1,40 @@
+.index{
+    background-color: #212529;
+    color: white;
+    
+}
+
+.container{
+    margin: 0px 0px;
+}
+
+a{
+    text-decoration: none;
+    color: #4BB1DF;
+}
+
+a:hover{
+    color: white;
+}
+
+h5{
+    transition: transform 1s;
+}
+
+h5:hover{
+    transform: scale(1.05);
+    color: white;
+}
+
+i{
+    margin: 0px 20px;
+    color: #4BB1DF;
+}
+
+i:hover{
+    color: white;
+}
+
+.indlink{
+    padding: 16px
+}

@@ -1,0 +1,67 @@
+.upl1{
+    box-shadow: 5px 5px 10px rgba(177, 173, 173, 0.849);
+    border-radius: 5px;
+    margin: 10px auto;
+    padding: 20px;
+}
+
+/* .space1{
+    box-shadow: 5px 5px 10px rgba(177, 173, 173, 0.849);
+} */
+
+form{
+    margin: 15px;
+}
+
+.mb-3{
+    margin-top: 20px auto;
+}
+
+.row{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 0px;
+}
+
+.buton{
+    border: none;
+}
+
+.submitimg{
+    height: 100px;
+    width: 100px;
+}
+
+#bike{
+    margin-top: 15px;
+    border-top-right-radius: 25px;
+}
+
+.classname {
+    position: relative;
+    -webkit-animation: linear;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-name: run;
+    -webkit-animation-duration: 2s;
+}
+  
+@-webkit-keyframes run {
+    0% {
+      transform: rotate(-30deg);
+      left: 0;
+    }
+    45%{
+        transform: rotate(0deg);
+        left: 45%;
+    }
+    50% {
+      left: 50%;
+    }
+    100% {
+      left: 88%;    
+    }
+}

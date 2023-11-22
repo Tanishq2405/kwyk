@@ -1,0 +1,22 @@
+.helpbox{
+    box-shadow: 5px 5px 10px rgba(177, 173, 173, 0.849);
+    margin: auto;
+    padding: 20px;
+    display: block;
+}
+
+table{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.complaintbox{
+    margin: auto;
+    display: block;
+}
+
+.headd{
+    margin: 20px;
+    text-align: center;
+    color: #001428;
+}

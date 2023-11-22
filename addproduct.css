@@ -1,0 +1,10 @@
+.box{
+    display: block;
+    
+}
+
+.addprod{
+    margin: 20px;
+    padding: 20px 20px 20px 20px;
+    box-shadow: 5px 5px 10px rgba(177, 173, 173, 0.849);
+}
